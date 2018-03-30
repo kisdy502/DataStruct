@@ -68,8 +68,8 @@ void merge(int *array, int low, int high) {
         array[i + low] = pTemp[i];
     }
 
-    printfArray(pTemp, 11);
-    printfArray(array, 11);
+    printfArray(pTemp, 10);
+    printfArray(array, 10);
 
     std::cout << "_________________________" << std::endl;
 

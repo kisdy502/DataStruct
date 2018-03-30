@@ -10,7 +10,7 @@
 
 int main() {
 
-    int array[] = {7, 4, 12, 25, 6, 9, 5, 17, 2, 0, 13};
+    int array[] = {7, 4, 12, 25, 6, 9, 5, 17, 2, 0};
     int left = 0;
     int length = sizeof(array) / sizeof(int);
     int right = length - 1;
